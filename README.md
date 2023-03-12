@@ -19,3 +19,5 @@ C:\Users\Irina\Desktop\Test Work 1st\diagram.png
 4.	Программа находится в ветке master
 Код программы:
 https://github.com/ivirna/1st-block-results-Test-Work/blob/main/Code%20for%20program
+Скриншоты:
+https://github.com/ivirna/1st-block-results-Test-Work/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%20commits.docx
