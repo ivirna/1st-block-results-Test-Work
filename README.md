@@ -17,3 +17,5 @@
 C:\Users\Irina\Desktop\Test Work 1st\diagram.png
 3.	Вы читаете фаил README.md
 4.	Программа находится в ветке master
+Код программы:
+https://github.com/ivirna/1st-block-results-Test-Work/blob/main/Code%20for%20program
